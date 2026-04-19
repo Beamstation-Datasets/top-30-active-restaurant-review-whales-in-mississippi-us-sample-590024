@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Mississippi, US
 
-> Free BeamStation sample export with 135 rows and masked direct-contact fields.
+> Free BeamStation sample export with 158 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `590024` |
 | Location | Mississippi |
 | Category | Restaurants |
-| Full dataset size | 1,357 records |
-| Free sample size | 135 records (9.95%) |
-| Last export | 2026-04-08T02:32:29.297735+00:00 |
+| Full dataset size | 1,589 records |
+| Free sample size | 158 records (9.94%) |
+| Last export | 2026-04-15T07:48:43.082343+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-mississippi-us-sample-590024/releases/download/sample-latest/beamstation_590024_restaurants-us-ms_SAMPLE_DIST.csv) |
 
 ## What is in this sample
