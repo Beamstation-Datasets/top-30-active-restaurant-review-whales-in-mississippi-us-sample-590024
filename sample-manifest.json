@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5f9b36e5-454a-4f5c-ba64-a18832982821",
+  "export_job_id": "3f8e4ff4-a26a-4339-ae68-0e6ef4a4a1b3",
   "id_short": 590024,
-  "published_at": "2026-04-19T07:33:58Z",
+  "published_at": "2026-04-22T19:57:00Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-mississippi-us-sample-590024",
   "sample_asset_name": "beamstation_590024_restaurants-us-ms_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/590024/beamstation_590024_restaurants-us-ms_SAMPLE_DIST.csv",
-  "sample_records": 158,
-  "sample_sha256": "de47bdc0c63bca07e2b18f5c7e22ab0c8102ad350f1d9690d5b4c5fc9ebdb318",
-  "sample_size_bytes": 642550,
-  "total_records": 1589
+  "sample_records": 137,
+  "sample_sha256": "994f8ab4266468ebbf78be734997c52f77a442dfc21ee67ece052267dd9e67ac",
+  "sample_size_bytes": 519580,
+  "total_records": 1371
 }
